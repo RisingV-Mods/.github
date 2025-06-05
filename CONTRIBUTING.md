@@ -8,13 +8,12 @@ First, thank you for considering a contribution! We welcome issues, feature prop
 
 | Step | Action                                                                                          |
 | ---- |-------------------------------------------------------------------------------------------------|
-| 1    | **Fork** the repository and create a topic branch from `dev` (`feature/xyz`, `fix/abc`, etc.).  |
-| 2    | **Write code & tests**, following the coding‑style rules below.                                 |
-| 3    | Run **`dotnet test`** and **`dotnet format`** (or `dotnet format verify`) locally.              |
-| 4    | Commit with a clear, present‑tense **commit message** (e.g. `fix(config): ignore missing key`). |
-| 5    | **Push** your branch and open a **Pull Request (PR)** against `dev`.                            |
-| 6    | At least **one maintainer review is required**. Address any review comments.                    |
-| 7    | The maintainer team merges with a **squash commit**.                                            |
+|  1.  | **Fork** the repository and create a topic branch from `dev` (`feature/xyz`, `fix/abc`, etc.).  |
+|  2.  | **Write code & tests**, following the coding‑style rules below.                                 |
+|  3.  | Commit with a clear, present‑tense **commit message** (e.g. `fix(config): ignore missing key`). |
+|  4.  | **Push** your branch and open a **Pull Request (PR)** against `dev`.                            |
+|  5.  | At least **one maintainer review is required**. Address any review comments.                    |
+|  6.  | The maintainer(s) merges with a **squash commit**.                                            |
 
 > **Note** – Draft PRs are absolutely fine while you are still working. They trigger CI but signal that the code isn’t ready for review.
 
