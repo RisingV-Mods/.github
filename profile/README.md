@@ -59,7 +59,7 @@ Be sure to visit the site for examples, tutorials, and up-to-date changelogs.
 
 Join the community to get help, share your work, and collaborate with other modders:
 
-* **Discord**: [https://vrisingmods.com/discord](https://vrisingmods.com/discord)
+* **Discord**: [https://vrisingmods.com/discord](https://vrisingmods.com/discord) (VRising Mod Community)
 * **Twitter (X)**: [https://twitter.com/RisingVModding](https://twitter.com/RisingVMods)
 * **Issues & Discussions**:
 
