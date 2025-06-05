@@ -30,22 +30,15 @@ Below is a list of my core repositories. Each is designed to be used independent
 | [![](https://docs.risingv.dev/scripting/assets/images/logo_50.png)](https://github.com/RisingV-Mods/RisingV.Scripting) | [RisingV.Scripting](https://github.com/RisingV-Mods/RisingV.Scripting) | Exposes a scripting API that lets you write C# scripts executing at runtime. Includes a runtime host to load and manage scripts without recompiling the entire mod. [API Docs](https://docs.risingv.dev/scripting/api/RisingV.Scripting.html) |
 | [![](https://docs.risingv.dev/bossdrops/assets/images/logo_50.png)](https://github.com/RisingV-Mods/RisingV.BossDrops) | [RisingV.BossDrops](https://github.com/RisingV-Mods/RisingV.BossDrops) | An example mod that demonstrates advanced usage of RisingV libraries by extending V Rising’s boss drop system. Use it as a template or reference when creating your own drop modifications. [GitHub Repo](https://github.com/BenDol/RisingV.BossDrops) |
 
----
-
 ## Documentation
 
 All of my public APIs and usage guides are hosted on the docs site:
 
 * **Main Documentation Portal**: [https://docs.risingv.dev/](https://docs.risingv.dev/)
 * **Getting Started Guide**: [https://docs.risingv.dev/sample](https://docs.risingv.dev/sample)
-* **API References**:
-  * [Core](https://docs.risingv.dev/core/api/RisingV.Core.html)
-  * [Shared](https://docs.risingv.dev/shared/api/RisingV.Shared.html)
-  * [Scripting](https://docs.risingv.dev/scripting/api/RisingV.Scripting.html)
+* **API References**: _(See table above)_
 
 Be sure to visit the site for examples, tutorials, and up-to-date changelogs.
-
----
 
 ## Community
 
@@ -57,8 +50,6 @@ Join the community to get help, share your work, and collaborate with other modd
 
   * File bugs, request features, or discuss usage on each repository’s “Issues” tab.
   * General conversation and announcements take place in my GitHub Discussions (where available).
-
----
 
 ## Getting Started
 
@@ -81,9 +72,7 @@ Join the community to get help, share your work, and collaborate with other modd
    * Copy the resulting DLL to your V Rising `BepInEx/plugins/` folder.
    * Launch V Rising and verify your mod loads by checking the console log.
 
-For more detailed, step-by-step instructions, see the [Getting Started](https://docs.risingv.dev/getting-started) section in the documentation.
-
----
+For more detailed, step-by-step instructions, see the [Getting Started](https://docs.risingv.dev/sample) section in the documentation.
 
 ## Contributing
 
@@ -95,8 +84,6 @@ We welcome contributions of all kinds—bug fixes, documentation improvements, n
 4. Submit a pull request describing your change.
 
 Please see each repository’s `CONTRIBUTING.md` for specific guidelines and coding standards. If you’re unsure where to start, check out open issues labeled **good first issue**.
-
----
 
 ## License
 
