@@ -51,7 +51,7 @@ First, thank you for considering a contribution! We welcome issues, feature prop
 
 ---
 
-## 🔍 Tests & CI
+## Tests & CI
 
 * Add/extend **unit tests** in the `Tests/` folder.
 * All PRs run the **GitHub Actions** workflow: restore → build → `dotnet test` → `dotnet format --verify`.
@@ -59,7 +59,7 @@ First, thank you for considering a contribution! We welcome issues, feature prop
 
 ---
 
-## 🤝 Code of Conduct
+## Code of Conduct
 
 We follow the [Contributor Covenant v2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/). In short:
 
@@ -69,7 +69,7 @@ We follow the [Contributor Covenant v2.1](https://www.contributor-covenant.org/v
 
 ---
 
-## 💬 Getting Help
+## Getting Help
 
 * **Issues → Q\&A** — search first, then open a new issue if your question isn’t answered.
 * Join the project’s Discord channel (link in the README) for synchronous discussion.
