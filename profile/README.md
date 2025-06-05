@@ -46,7 +46,7 @@ Below is a list of my core repositories. Each is designed to be used independent
 All of my public APIs and usage guides are hosted on the docs site:
 
 * **Main Documentation Portal**: [https://docs.risingv.dev/](https://docs.risingv.dev/)
-* **Getting Started Guide**: [https://docs.risingv.dev/](https://docs.risingv.dev/)
+* **Getting Started Guide**: [https://docs.risingv.dev/sample](https://docs.risingv.dev/sample)
 * **API References**:
 
   * Core: [https://docs.risingv.dev/core/api/RisingV.Core.html](https://docs.risingv.dev/core/api/RisingV.Core.html)
