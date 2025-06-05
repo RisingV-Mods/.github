@@ -25,7 +25,7 @@ Below is a list of my core repositories. Each is designed to be used independent
 
 * **[RisingV.Core](https://github.com/RisingV-Mods/RisingV.Core)**
   Provides essential systems and utilities—such as data management, event handling, and configuration services—that form the backbone of many mods.
-  [API Docs](https://docs.risingv.dev/core/api/RisingV.Core.html) ([risingv.dev][1])
+  [API Docs](https://docs.risingv.dev/core/api/RisingV.Core.html)
 
 * **[RisingV.Shared](https://github.com/RisingV-Mods/RisingV.Shared)**
   Contains shared libraries, helper functions, and common data structures used across multiple RisingV projects. Ideal for dragging into any mod that needs reusable assets or utilities.
