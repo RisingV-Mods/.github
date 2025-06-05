@@ -84,7 +84,7 @@ Join the community to get help, share your work, and collaborate with other modd
    * Add `RisingV.Shared` and `RisingV.Scripting` as project references or submodules.
 3. **Review Example Mod**
 
-   * Check out [RisingV.BossDrops](https://github.com/RisingV-Mods/RisingV.BossDrops) for a working example of how to wire up Core, Shared, and Scripting together.
+   * Check out [RisingV.Sample](https://github.com/RisingV-Mods/RisingV.Sample) for a working example of how to wire up Core, Shared, and Scripting together.
 4. **Build & Deploy**
 
    * Compile your project (Target .NET 4.x to match V Rising runtime).
