@@ -1,6 +1,6 @@
 # RisingV
 
-A V Rising modding framework built for BepInEx.
+A V Rising modding framework built for BepInEx by [BenDol](https://github.com/BenDol).
 
 Welcome to the RisingV GitHub. My mission is to provide a suite of modular libraries, tools, and systems that enhance the V Rising modding experience—making it easier to create immersive gameplay, custom mechanics, and advanced features for your mods.
 
