@@ -23,19 +23,19 @@ Welcome to the RisingV GitHub. My mission is to provide a suite of modular libra
 
 Below is a list of my core repositories. Each is designed to be used independently or together as building blocks for your V Rising mods:
 
-* **RisingV.Core**
+* **[RisingV.Core](https://github.com/RisingV-Mods/RisingV.Core)**
   Provides essential systems and utilities—such as data management, event handling, and configuration services—that form the backbone of many mods.
   [API Docs](https://docs.risingv.dev/core/api/RisingV.Core.html) ([risingv.dev][1])
 
-* **RisingV.Shared**
+* **[RisingV.Shared](https://github.com/RisingV-Mods/RisingV.Shared)**
   Contains shared libraries, helper functions, and common data structures used across multiple RisingV projects. Ideal for dragging into any mod that needs reusable assets or utilities.
   [API Docs](https://docs.risingv.dev/shared/api/RisingV.Shared.html)
 
-* **RisingV.Scripting**
+* **[RisingV.Scripting](https://github.com/RisingV-Mods/RisingV.Scripting)**
   Exposes a scripting API that lets you write C# scripts executing at runtime. Includes a runtime host to load and manage scripts without recompiling the entire mod.
   [API Docs](https://docs.risingv.dev/scripting/api/RisingV.Scripting.html)
 
-* **RisingV.BossDrops**
+* **[RisingV.BossDrops](https://github.com/RisingV-Mods/RisingV.BossDrops)**
   An example mod that demonstrates advanced usage of RisingV libraries by extending V Rising’s boss drop system. Use it as a template or reference when creating your own drop modifications.
   [GitHub Repo](https://github.com/BenDol/RisingV.BossDrops)
 
