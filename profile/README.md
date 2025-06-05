@@ -23,7 +23,7 @@ Welcome to the RisingV GitHub. My mission is to provide a suite of modular libra
 
 Below is a list of my core repositories. Each is designed to be used independently or together as building blocks for your V Rising mods:
 
-|    | Name | Description |
+|      | Name | Description |
 |:----:|:----:|:------------|
 | [![](https://docs.risingv.dev/core/assets/images/logo_50.png)](https://github.com/RisingV-Mods/RisingV.Core) | [RisingV.Core](https://github.com/RisingV-Mods/RisingV.Core) | Provides essential systems and utilities—such as data management, event handling, and configuration services—that form the backbone of many mods. [API Docs](https://docs.risingv.dev/core/api/RisingV.Core.html) |
 | [![](https://docs.risingv.dev/shared/assets/images/logo_50.png)](https://github.com/RisingV-Mods/RisingV.Shared) | [RisingV.Shared](https://github.com/RisingV-Mods/RisingV.Shared) | Contains shared libraries, helper functions, and common data structures used across multiple RisingV projects. Ideal for dragging into any mod that needs reusable assets or utilities. [API Docs](https://docs.risingv.dev/shared/api/RisingV.Shared.html) |
@@ -34,7 +34,7 @@ Below is a list of my core repositories. Each is designed to be used independent
 
 All of my public APIs and usage guides are hosted on the docs site:
 
-* **Main Documentation Portal**: [https://docs.risingv.dev/](https://docs.risingv.dev/)
+* **Main Documentation Portal**: [https://docs.risingv.dev](https://docs.risingv.dev/)
 * **Getting Started Guide**: [https://docs.risingv.dev/sample](https://docs.risingv.dev/sample)
 * **API References**: _(See table above)_
 
