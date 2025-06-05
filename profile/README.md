@@ -49,9 +49,9 @@ All of my public APIs and usage guides are hosted on the docs site:
 * **Getting Started Guide**: [https://docs.risingv.dev/sample](https://docs.risingv.dev/sample)
 * **API References**:
 
-  * Core: [https://docs.risingv.dev/core/api/RisingV.Core.html](https://docs.risingv.dev/core/api/RisingV.Core.html)
-  * Shared: [https://docs.risingv.dev/shared/api/RisingV.Shared.html](https://docs.risingv.dev/shared/api/RisingV.Shared.html)
-  * Scripting: [https://docs.risingv.dev/scripting/api/RisingV.Scripting.html](https://docs.risingv.dev/scripting/api/RisingV.Scripting.html)
+  * Core: [https://docs.risingv.dev/core/api](https://docs.risingv.dev/core/api/RisingV.Core.html)
+  * Shared: [https://docs.risingv.dev/shared/api](https://docs.risingv.dev/shared/api/RisingV.Shared.html)
+  * Scripting: [https://docs.risingv.dev/scripting/api](https://docs.risingv.dev/scripting/api/RisingV.Scripting.html)
 
 Be sure to visit the site for examples, tutorials, and up-to-date changelogs.
 
