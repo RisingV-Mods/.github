@@ -68,8 +68,8 @@ Join the community to get help, share your work, and collaborate with other modd
    * Check out [RisingV.Sample](https://github.com/RisingV-Mods/RisingV.Sample) for a working example of how to wire up Core, Shared, and Scripting together.
 4. **Build & Deploy**
 
-   * Compile your project (Target .NET 4.x to match V Rising runtime).
-   * Copy the resulting DLL to your V Rising `BepInEx/plugins/` folder.
+   * Compile your project (Target .NET 6.x to match V Rising runtime).
+   * Copy the resulting DLL to your V Rising `BepInEx/plugins/` folder (or extract the release zip to `BepInEx`).
    * Launch V Rising and verify your mod loads by checking the console log.
 
 For more detailed, step-by-step instructions, see the [Getting Started](https://docs.risingv.dev/sample) section in the documentation.
