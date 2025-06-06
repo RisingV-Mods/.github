@@ -91,4 +91,4 @@ All RisingV repositories are licensed under the **MIT License**. By using or con
 
 ---
 
-Thank you for checking out RisingV! We look forward to seeing what you create.
+Thank you for checking out RisingV! I look forward to seeing what you create.
