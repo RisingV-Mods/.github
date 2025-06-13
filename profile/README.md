@@ -54,26 +54,7 @@ Join the community to get help, share your work, and collaborate with other modd
 
 ## Getting Started
 
-1. **Clone a Base Repository**
-
-   ```bash
-   git clone https://github.com/RisingV-Mods/RisingV.Core.git
-   cd RisingV.Core
-   ```
-2. **Install Dependencies**
-
-   * Ensure BepInEx is installed for V Rising.
-   * Add `RisingV.Shared` and `RisingV.Scripting` as project references or submodules.
-3. **Review Example Mod**
-
-   * Check out [RisingV.Sample](https://github.com/RisingV-Mods/RisingV.Sample) for a working example of how to wire up Core, Shared, and Scripting together.
-4. **Build & Deploy**
-
-   * Compile your project (Target .NET 6.x to match V Rising runtime).
-   * Copy the resulting DLL to your V Rising `BepInEx/plugins/` folder (or extract the release zip to `BepInEx`).
-   * Launch V Rising and verify your mod loads by checking the console log.
-
-For more detailed, step-by-step instructions, see the [Getting Started](https://docs.risingv.dev/sample) section in the documentation.
+For detailed, step-by-step instructions, see the [Getting Started](https://docs.risingv.dev/sample) section in the documentation.
 
 ## Contributing
 
