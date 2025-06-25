@@ -44,7 +44,7 @@ Be sure to visit the site for examples, tutorials, and up-to-date changelogs.
 ## Concerns
 
 **Game Updates**  
-One of RisingV's goals is to make sure that game updates have as little friction as possible by modularizing components where possible. Below is a diagram that demonstrates which libraries are affected by game updates (red = affected, green = immune). This will be updated as required. Stability is a very important factor in my development process and I want to make sure RisingV doesn't cause more issues than is solves.
+One of RisingV's goals is to make sure that game updates have as little friction as possible by modularizing components where possible. Below is a diagram that demonstrates which libraries are affected by game updates (red = affected, green = immune). This will be updated as required. Stability is a very important factor in my development process and I want to make sure RisingV doesn't cause more issues than it solves.
 
 ![RisingV_Game_Updates drawio](https://github.com/user-attachments/assets/7e542a5f-2da9-43b2-9baf-ce76f9c144e8)
 
