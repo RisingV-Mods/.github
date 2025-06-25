@@ -11,6 +11,7 @@ Welcome to the RisingV GitHub. My mission is to provide a suite of modular libra
 ## Table of Contents
 
 * [Projects](#projects)
+* [Concerns](#concerns)
 * [Documentation](#documentation)
 * [Community](#community)
 * [Getting Started](#getting-started)
