@@ -12,7 +12,7 @@ Welcome to the RisingV GitHub. My mission is to provide a suite of modular libra
 
 * [Projects](#projects)
 * [Documentation](#documentation)
-* [Concerns](#concerns)
+* [Considerations](#considerations)
 * [Community](#community)
 * [Getting Started](#getting-started)
 * [Contributing](#contributing)
@@ -42,7 +42,7 @@ All of my public APIs and usage guides are hosted on the docs site:
 
 Be sure to visit the site for examples, tutorials, and up-to-date changelogs.
 
-## Concerns
+## Considerations
 
 **Game Updates**  
 One of RisingV's goals is to make sure that game updates have as little friction as possible by modularizing components where possible. Below is a diagram that demonstrates which libraries are affected by game updates (red = affected, green = immune). This will be updated as required. Stability is a very important factor in my development process and I want to make sure RisingV doesn't cause more issues than it solves.
