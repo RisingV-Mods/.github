@@ -41,6 +41,13 @@ All of my public APIs and usage guides are hosted on the docs site:
 
 Be sure to visit the site for examples, tutorials, and up-to-date changelogs.
 
+## Concerns
+
+**Game Updates**
+On of RisingV's goals is to make sure that game updates have as little friction as possible by modularizing components as much as possible. Below is a diagram that demonstrates which libraries are affected by game updates (red = affected, green = immune). This will be updated as required.
+
+![RisingV_Game_Updates drawio](https://github.com/user-attachments/assets/7e542a5f-2da9-43b2-9baf-ce76f9c144e8)
+
 ## Community
 
 Join the community to get help, share your work, and collaborate with other modders:
